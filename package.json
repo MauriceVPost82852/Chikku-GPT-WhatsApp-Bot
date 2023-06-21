@@ -4,6 +4,8 @@
   "description": "",
   "main": "bot.mjs",
   "scripts": {
+    "start": "node bot.mjs",
+    "dev": "nodemon bot.mjs"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
