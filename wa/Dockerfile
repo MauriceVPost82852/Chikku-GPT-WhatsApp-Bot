@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM node:latest
 
 
 WORKDIR /root/WADuplicated/
