@@ -1,7 +1,6 @@
 import qrcode from 'qrcode-terminal';
 import waweb from 'whatsapp-web.js';
 import makeApiCall from './chikku.mjs';
-import voicetext from './voicetext.mjs'
 
 
 
